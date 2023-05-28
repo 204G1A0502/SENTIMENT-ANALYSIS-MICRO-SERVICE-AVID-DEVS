@@ -50,6 +50,6 @@ The html files which we have used for rendering the webpages are:
 
 ### Note: Make sure to have all your .html files in templates folder which should be located in the same folder as your flask app presents (https://github.com/204G1A0502/SENTIMENT-ANALYSIS-MICRO-SERVICE-AVID-DEVS/blob/master/Sentiment%20AnalysisApp.ipynb).
 
-Here is the video link to gain some knowledge on our application working: https://drive.google.com/file/d/1JlHB2_ywuWDJjdYfkBUceGbCtw_OzkK8/view?usp=sharing
+
 
 
